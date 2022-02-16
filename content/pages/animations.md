@@ -1,10 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Animations
 uid: 9789effc-535c-9390-09dc-672f2b2c9185
 ---
 
-Animations are available to illustrate and clarify many of the topics covered in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) for this course. We recommend you view the Microsoft® PowerPoint® (PPT) versions, if possible, because they include motion.
+Animations are available to illustrate and clarify many of the topics covered in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) for this course. We recommend you view the Microsoft{{< sup "®" >}} PowerPoint{{< sup "®" >}} (PPT) versions, if possible, because they include motion.
 
 {{< tableopen >}}
 {{< theadopen >}}

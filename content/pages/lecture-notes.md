@@ -1,10 +1,13 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 18d0dfbe-e4fb-f8e0-bbec-099a2aa95f05
 ---
 
-Lecture notes are available for this class in two formats. We recommend you view the Microsoft® PowerPoint® (PPT) versions, if possible, because they include motion. The animations referred to in the lecture notes in yellow boxes can be found in the [animations]({{< baseurl >}}/pages/animations) section of the course. Please note that slides for Ses #18 are unavailable.
+Lecture notes are available for this class in two formats. We recommend you view the Microsoft{{< sup "®" >}} PowerPoint{{< sup "®" >}} (PPT) versions, if possible, because they include motion. The animations referred to in the lecture notes in yellow boxes can be found in the [animations]({{< baseurl >}}/pages/animations) section of the course. Please note that slides for Ses #18 are unavailable.
 
 {{< tableopen >}}
 {{< theadopen >}}
