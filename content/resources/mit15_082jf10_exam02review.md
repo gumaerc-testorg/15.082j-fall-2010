@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 80ce3ddc-c65b-d259-b0d3-3e07ab044c86
 resourcetype: Document
 title: MIT15_082JF10_exam02review.pdf
 uid: d515618e-016f-2f38-4c25-4613ae386935
