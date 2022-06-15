@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course project, a list of
+  deliverables, and a list of suggested topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides review materials for the midterm exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -21,13 +22,13 @@ EXAM MATERIALS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Midterm 2 review problems ([PDF]({{< baseurl >}}/resources/mit15_082jf10_exam02review))
+Midterm 2 review problems ({{% resource_link d515618e-016f-2f38-4c25-4613ae386935 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Midterm 2 practice problems ([PDF]({{< baseurl >}}/resources/mit15_082jf10_exam02prac))
+Midterm 2 practice problems ({{% resource_link 2a9a8ded-254a-6c7e-57fb-f8b592e7f504 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
