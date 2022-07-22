@@ -5,6 +5,7 @@ file: /courses/15-082j-network-optimization-fall-2010/2a9a8ded254a6c7e57fbf8b592
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_082JF10_exam02prac.pdf
 uid: 2a9a8ded-254a-6c7e-57fb-f8b592e7f504
 ---
 This resource contains information related to midterm 2 practice problems.
-
